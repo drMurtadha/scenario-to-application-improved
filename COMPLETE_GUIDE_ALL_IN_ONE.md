@@ -1,5 +1,5 @@
 # 📖 FROM SCENARIO TO APPLICATION
-## Complete Improved Guide - All Content in One File
+## 1. Complete Improved Guide - All Content in One File
 
 **Version:** 2.0 | **Updated:** April 2026  
 **For:** First-year Informatics Students | **Tool:** Claude Haiku 4.5
