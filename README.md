@@ -20,6 +20,6 @@
    4. Create GitHub repo with results
 
    ## Link
-      (1. Complete Guide All in One)[COMPLETE_GUIDE_ALL_IN_ONE.md]
+      1. (Complete Guide All in One)[COMPLETE_GUIDE_ALL_IN_ONE.md]
    
    **Time:** 30 minutes for project spec, 4 weeks to build
