@@ -1,4 +1,4 @@
-# 🏗️ WHERE DOES THE MOCK DATA CODE RUN?
+# 2. 🏗️ WHERE DOES THE MOCK DATA CODE RUN?
 ## Architecture Guide: Google Sheets vs. Backend vs. Frontend
 
 ---
